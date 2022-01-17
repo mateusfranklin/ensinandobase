@@ -1,0 +1,5 @@
+.filmes div{
+    cursor: pointer;
+    background-color: #000;
+    color: #fff;
+}
